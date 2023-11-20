@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+header{
+    background-color: blue;
+    height: 200px;
+}
+.one{
+    background-color: aliceblue;
+    height: 200px;
+    display: flex;
+}
+.aside-left{
+    background-color: aliceblue;
+    height: 200px;
+    flex-basis: 50%;
+    
+}
+.aside-right{
+    background-color: brown;
+    height: 200px;
+    flex-basis: 50%;
+}
+.two{
+    background-color: greenyellow;
+    height: 200px;
+   
+}
+.aside-top{
+    background-color:aqua;
+    height: 50px;
+}
+.aside-down{
+    background-color:goldenrod;
+    height: 150px;
+}
+.tre{
+    background-color: grey;
+    height: 200px;
+
+}
