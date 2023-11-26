@@ -63,10 +63,18 @@ footer{
     background-color: dimgray;
 }
 .tre{
-    width: 60%;
     display: flex;
-    
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
 }
 .tre>div{
     flex-grow: 1;
 }
+.end{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    height: 20px;
+} 
